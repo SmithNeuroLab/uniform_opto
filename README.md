@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10892426.svg)](https://doi.org/10.5281/zenodo.10892426)
+
 # LE/LI recurrent network model
 
 ## Description
